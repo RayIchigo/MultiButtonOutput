@@ -23,7 +23,6 @@ This Arduino project controls different outputs using three push buttons. Each b
 2. When a button is pressed, it activates its assigned output.
 3. When the button is released, the output turns OFF.
 
-## Circuit Diagram
-
-
-## Files
+## Circuit
+![Circuit Photo]
+(circuit.png)
